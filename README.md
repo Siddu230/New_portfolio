@@ -15,7 +15,7 @@ Showcases my education, experience, projects, technical skills, achievements, an
 
 ## 📸 Preview
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Screenshot 2025-05-19 161929.png)
 
 ## 🛠️ How to Use
 
