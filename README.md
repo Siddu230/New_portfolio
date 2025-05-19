@@ -15,7 +15,7 @@ Showcases my education, experience, projects, technical skills, achievements, an
 
 ## 📸 Preview
 
-![Portfolio Screenshot](Screenshot 2025-05-19 161929.png)
+![Portfolio Screenshot](screenshot.png)
 
 ## 🛠️ How to Use
 
@@ -38,12 +38,8 @@ Showcases my education, experience, projects, technical skills, achievements, an
 
 ## 🌐 Deployment
 
-You can deploy this portfolio easily using:
-- [Netlify](https://www.netlify.com/)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+You can access this portfolio easily using:
+- [Netlify](https://sanapalasportfolio.netlify.app/)
 
 ---
 
